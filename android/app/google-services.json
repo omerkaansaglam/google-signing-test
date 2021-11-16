@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626630474631",
+    "project_id": "testsmsauto-af883",
+    "storage_bucket": "testsmsauto-af883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626630474631:android:0bb0acf7c651bc1e54b122",
+        "android_client_info": {
+          "package_name": "com.example.testsmsauto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626630474631-ehe6ogmuheha3663g9c3ol5grtnail0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbi1tv3eZemML7GlyGsb4MD57qaU0aRFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626630474631-ehe6ogmuheha3663g9c3ol5grtnail0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
