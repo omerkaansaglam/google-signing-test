@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "626630474631",
-    "project_id": "testsmsauto-af883",
-    "storage_bucket": "testsmsauto-af883.appspot.com"
+    "project_number": "786123495292",
+    "project_id": "sigortaproauth",
+    "storage_bucket": "sigortaproauth.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:626630474631:android:0bb0acf7c651bc1e54b122",
+        "mobilesdk_app_id": "1:786123495292:android:0e4470d3c0d5073f0936f9",
         "android_client_info": {
           "package_name": "com.example.testsmsauto"
         }
       },
       "oauth_client": [
         {
-          "client_id": "626630474631-ehe6ogmuheha3663g9c3ol5grtnail0l.apps.googleusercontent.com",
+          "client_id": "786123495292-t3uq1ncfnhe0qhvr34r6prnmegprls19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testsmsauto",
+            "certificate_hash": "81ee30b6a5c293bf2672131fb0ab98473bf76cf6"
+          }
+        },
+        {
+          "client_id": "786123495292-eh775a2rnud487mrifagkhj5o5og6ncm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAbi1tv3eZemML7GlyGsb4MD57qaU0aRFw"
+          "current_key": "AIzaSyCT6Gz39hUp2HMMimoWRsIEu6MasppUc3w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "626630474631-ehe6ogmuheha3663g9c3ol5grtnail0l.apps.googleusercontent.com",
+              "client_id": "786123495292-eh775a2rnud487mrifagkhj5o5og6ncm.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
